@@ -16,6 +16,5 @@ Gereksinimleri yüklemek için, aşağıdaki komutları kullanabilirsiniz:
 pip install numpy
 pip install opencv-python
 
-[![Video Başlığı](https://www.example.com/video_thumbnail.jpg)](https://www.example.com/video_link)
 ```
 ![Image](image_for_readme.png)
